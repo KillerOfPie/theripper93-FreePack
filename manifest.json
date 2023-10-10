@@ -11,8 +11,8 @@
   ],
   "id": "theripper93-freepack",
   "url": "https://github.com/KillerOfPie/theripper93-FreePack",
-  "manifest": "https://raw.githubusercontent.com/KillerOfPie/theripper93-FreePack/main/manifest.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip",
+  "manifest": "https://github.com/KillerOfPie/theripper93-FreePack/releases/latest/download/manifest.json",
+  "download": "https://github.com/KillerOfPie/theripper93-FreePack/releases/latest/download/Init.zip",
   "relationships": {
     "requires": [
       {
